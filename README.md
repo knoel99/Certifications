@@ -1,2 +1,2 @@
-# DAMA
-Data Management Association
+# Certifications
+Repository Used to link LinkedIn certificates
