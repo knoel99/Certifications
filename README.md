@@ -1,2 +1,2 @@
 # Certifications
-Repository Used to link LinkedIn certificates
+Repository used to host LinkedIn certificates
